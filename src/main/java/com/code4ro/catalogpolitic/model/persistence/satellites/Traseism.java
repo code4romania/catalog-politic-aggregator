@@ -1,4 +1,4 @@
-package com.code4ro.catalogpolitic.model.persistence.sattelites;
+package com.code4ro.catalogpolitic.model.persistence.satellites;
 
 import com.code4ro.catalogpolitic.model.persistence.atoms.PartidAn;
 import lombok.Getter;

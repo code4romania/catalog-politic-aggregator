@@ -1,4 +1,4 @@
-package com.code4ro.catalogpolitic.model.persistence.sattelites.profiles;
+package com.code4ro.catalogpolitic.model.persistence.satellites.profiles;
 
 import com.code4ro.catalogpolitic.model.persistence.atoms.Suspendare;
 import lombok.Getter;
