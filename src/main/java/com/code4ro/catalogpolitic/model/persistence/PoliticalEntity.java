@@ -8,7 +8,7 @@ import java.util.List;
 
 @Getter
 @Setter
-public class Candidate {
+public class PoliticalEntity {
     private PersonalProfile profile;
     private Traseism politicalParties;
     private List<PoliticalProfile> politicalProfile;
